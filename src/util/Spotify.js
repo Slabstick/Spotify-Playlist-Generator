@@ -1,6 +1,6 @@
+//obviosly private. Your code won't work until you get your own clientId from Spotify.
 import { clientId } from "../private/clientId";
 
-// const clientId = '616a3a0dde1e4348aec3e0f94e00a303';
 const redirectUri = 'http://localhost:3000/';
 let accessToken;
 
