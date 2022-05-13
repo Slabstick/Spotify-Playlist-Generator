@@ -9,7 +9,7 @@ The problem is: with all of the above I could learn for hours on end and still g
 I'll try to use github as a diary because learning is hard and even harder if you forget where you started and how bad you once were. I would have started this sooner but I first had to learn how to use git and github.
 
 ### 05/13/2022
-Gotta be honest, all that API Stuff I really didn't get. I had a few lessons with fetch(), async and await and resolve and all that good stuff but I am really not fluid with it. This lesson here wasn't really about that so I mostly ignored it and just wrote what the walkthrough wrote. Also some stuff I tried again with too much force. I was really banging my head today. But the first few hours at least were really productive. And then in the end I also had a few epiphanies while debugging.
+Gotta be honest, all that API Stuff I really didn't get. Like at all. I had a few lessons with fetch(), async and await and resolve and all that good stuff but I am really not fluid with it. This lesson here wasn't really about that so I mostly ignored it and just wrote what the walkthrough said. Also some stuff I tried again with too much force. I was really banging my head today. But the first few hours at least were really productive. And then in the end I also had a few epiphanies while debugging.
 
 Bugs were really dumb I have to say. Like a missing 'https' or 'cpm' instead of '.com'. But that also means I learned that it doesn't really mean anything when the console says it's some 'CORS' error. It was just me missing one 's' in 'https'.
 
